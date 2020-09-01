@@ -38,20 +38,20 @@ Consejos:
 
 El tema de icono de archivo más épico para Visual Studio Code. Este tema de iconos está diseñado para usarse con Material Theme for Vscode para una experiencia inmersiva.
 
-![ ](/img/material.png)
+![ ](/img/material.PNG)
 ## EXTENCION LEVE SHARE
 
 
-![ ](/img/live.png)
+![ ](/img/live.PNG)
 
 Visual Studio Live Share le permite editar y depurar de forma colaborativa con otros en tiempo real, independientemente de los lenguajes de programación que esté usando o los tipos de aplicaciones que esté creando. Le permite compartir instantáneamente (y de forma segura) su proyecto actual, y luego, según sea necesario, compartir sesiones de depuración, instancias de terminal, aplicaciones web de host local, llamadas de voz y más. Los desarrolladores que se unen a sus sesiones reciben todo el contexto de su editor de su entorno (por ejemplo, servicios de idiomas, depuración), lo que garantiza que puedan comenzar a colaborar de manera productiva de inmediato, sin necesidad de clonar ningún repositorio o instalar ningún SDK.
 ## EXTENCION MARKDOWN PREVIEW
 
-![ ](/img/mar.png)
+![ ](/img/mar.PNG)
 
 Markdown Preview Enhanced es una extensión que le brinda muchas funcionalidades útiles como sincronización automática de desplazamiento, composición tipográfica matemática, sirena, PlantUML, pandoc, exportación de PDF, fragmento de código, escritor de presentaciones,
 
-![ ](/img/da.png)
+![ ](/img/da.PNG)
 
 ## INSTALACION DE GIT HUB
 
@@ -67,25 +67,25 @@ para configurar git vamos a poner el usuario y el correo
 
 ## Creacion de una cuenta en git 
 para la creacion de una cuenta en git tenemos que tener un correo electronico  donde agregamos el correo electronico, nombre y apellido y contraseña ingresamos la conrtaseña dos veces para rectificar la contraseña.
-![ ](/img/mm.png)
+![ ](/img/mm.PNG)
 y posterior ya tenemos una cuenta en git
-![ ](/img/cu.png)
+![ ](/img/cu.PNG)
 ## Creacion de un Repositorio en git
 Para crear un repositorio en git 
 
-![ ](/img/re.png)
+![ ](/img/re.PNG)
 le damos en la opcio nuevo repositorio
 
 
 Aca nos muestra el nombre que vamos a signar al repositorio y  algun resumen que queramos agregar
-![ ](/img/git.png)
+![ ](/img/git.PNG)
 
 en esta opcion es para que el repopositorio quede publico y lo puedean ver.
-![ ](/img/ll.png)
+![ ](/img/ll.PNG)
 
 en esta captura precenta  donde si queremos agregar un archivo README
 
 La segunda opcion la seleccionamos y la dejamos none.
  y la tercera es para la licencia y permisos que va ha tener nuestro privcidad.
 
- ![ ](/img/ul.png)
+ ![ ](/img/ul.PNG)
