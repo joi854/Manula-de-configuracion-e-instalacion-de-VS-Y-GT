@@ -32,7 +32,7 @@ Seleccione el código que desea capturar.
 Ajuste el ancho de la captura de pantalla si lo desea.
 Haga clic en el botón del obturador para guardar la captura de pantalla en su disco.
 Consejos:
-![ ](/img/captura.png)
+![ ](/img/captura.PNG)
 
 ##EXTENCION MATERIAL ICONS
 
